@@ -1,3 +1,1 @@
 design evaluation
-larrge system dividing into small components
-it has its own name
